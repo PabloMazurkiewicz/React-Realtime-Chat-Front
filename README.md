@@ -1,28 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/altrawan/telegram-app">
-    <img src="https://lh3.googleusercontent.com/d/1VmImOVcKX-U-8k8jd3Ha70u8_hMJOEiy" alt="Logo" width="150px">
-  </a>
-
-  <h3 align="center">Telegram Chatting</h3>
-
-  <p align="center">
-    Send your Message to the World🌎.
-    <br />
-    <a href="#table-of-contents"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://bit.ly/telegram-app">View Demo</a>
-    ·
-    <a href="https://github.com/altrawan/telegram-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/altrawan/telegram-app/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -45,10 +22,8 @@
       </ul>
     </li>
     <li><a href="#screenshoots">Screenshots</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#related-project">Related Project</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
+    
   </ol>
 </details>
 
@@ -56,7 +31,7 @@
 
 ## About The Project
 
-**Telegram Chatting** is a web site-based two-way real-time chat communication application. Has features including two-way private messaging between users, searching user lists, viewing profiles between users, and updating user data.
+**Real-time Chatting** is a web site-based two-way real-time chat communication application. Has features including two-way private messaging between users, searching user lists, viewing profiles between users, and updating user data.
 
 ### Built With
 
@@ -85,18 +60,18 @@ Before going to the installation stage there are some software that must be inst
 
 ### Installation
 
-If you want to run this project locally, I recommend you to configure the [back-end](https://github.com/altrawan/realtime-chat-api) first before configuring this repo front-end.
+If you want to run this project locally, I recommend you to configure the [back-end](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git) first before configuring this repo front-end.
 
 - Clone the repo
 
 ```
-git clone https://github.com/altrawan/telegram-app.git
+git clone https://github.com/PabloMazurkiewicz/React-Realtime-Chat-Front.git
 ```
 
 - Go To Folder Repo
 
 ```
-cd telegram-app
+cd React-Realtime-Chat-Front
 ```
 
 - Install Module
@@ -179,40 +154,12 @@ REACT_APP_API_URL = [API_URL]
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Related Project
 
-:rocket: [`Backend Telegram Chatting`](https://github.com/altrawan/realtime-chat-api)
+:rocket: [`Backend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-API.git)
 
-:rocket: [`Frontend Telegram Chatting`](https://github.com/altrawan/telegram-app)
+:rocket: [`Frontend Telegram Chatting`](https://github.com/PabloMazurkiewicz/React-Realtime-Chat-Front.git)
 
-:rocket: [`Web Service`](https://telegram-chatting.herokuapp.com/)
-
-:rocket: [`Demo Telegram Chatting`](https://bit.ly/telegram-chatting)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Contact
-
-My Email : muhammadalifputra8888@gmail.com
-
-Project Link: [https://github.com/altrawan/telegram-app](https://github.com/altrawan/telegram-app)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-
-Distributed under the [MIT](/LICENSE) License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
